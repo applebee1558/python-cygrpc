@@ -45,7 +45,7 @@ setup(
         'twine',
         'bottle',
         'Paste',
-        'grpcio==1.42.0'
+        'grpcio==1.42.0',
         'grpcio-tools==1.42.0',
         'bottle-cors'
     ],
